@@ -5,7 +5,7 @@ GTid: 903645962<br>
 Date: 2020/10/11<br>
 
 ## Introduction
-This project is to generate four optimization algorithms(Randomized Hill Climbing, Simulated Annealing, Genetic Algorithm and MIMC) on three problems, which is Four Peaks, One Max and Knapsack. Besides, three of the optimization algorithms are used in the Neural Network model I built in Assignment 1: Supervised Learning problem. The dataset I used is downloaded from Kaggle<br>
+This project is to generate four optimization algorithms(Randomized Hill Climbing, Simulated Annealing, Genetic Algorithm and MIMIC) on three problems, which is Four Peaks, One Max and Knapsack. Besides, three of the optimization algorithms are used in the Neural Network model I built in Assignment 1: Supervised Learning problem. The dataset I used is downloaded from Kaggle<br>
 NBA games: https://www.kaggle.com/nathanlauga/nba-games<br>
 
 This project link on Github: https://github.com/simonyang0701/CS7641-Machine-Learning-Randomized-Optimization.git<br>
